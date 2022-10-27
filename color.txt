@@ -1,1 +1,7 @@
 Working with python files which entails rainbow colors
+red
+orange
+yellow
+green
+blue
+violet
